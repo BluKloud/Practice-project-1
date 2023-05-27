@@ -1,0 +1,91 @@
+body {
+    margin-left: 0;
+    font-family: 'Sriracha' ,sans-serif;
+    margin-right: 0;
+}
+
+.intro {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.title {
+    color: rgb(20, 199, 199);
+}
+
+#days {
+    color: rgb(214, 243, 52);
+}
+
+
+.gain {
+    color: rgb(167, 164, 164);
+    line-height: 12px;
+}
+
+.content {
+    display: flex;
+    font-size: 18px
+}
+
+
+.monthly {
+    flex: 50%;
+    background: rgb(2, 160, 160);
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+#title {
+    text-align: left;
+}
+.per {
+    text-align: left;
+}
+
+.why {
+    flex: 50%;
+    background: rgb(0, 190, 190);
+    padding-top: 1%;
+}
+
+label {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: none
+}
+
+#money {
+    font-size: 36px;
+    font-weight: bold;
+
+}
+
+.content {
+    color: white;
+}
+
+button {
+    background: rgb(179, 255, 0);
+    width: 80%;
+    height: 75px;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;;
+    border: 0;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px black;
+}
+
+button:hover {
+    transform: translateY(-5px);
+    background: rgb(186, 255, 25) ;
+}
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
